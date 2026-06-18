@@ -1,1 +1,10 @@
-{"name": "Harshit", "roll": 23}
+[
+    {
+        "name": "Harsh",
+        "age": 21
+    },
+    {
+        "name": "Aman",
+        "age": 22
+    }
+]
